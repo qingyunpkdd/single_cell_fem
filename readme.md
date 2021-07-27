@@ -58,17 +58,39 @@ out_dir = "../../result/gsea_out"
 
 ## R and python script to reproduce three data sets (PBMC, liver, pancreas)
 
-所有在Seurat中的数据处理代码都放在了script\R_script目录中。
+All data processing codes in Seurat are placed in the script\R_script directory.
 
 
 
+## data download
+
+The download ULRs of all three data sets are as follows:
+
+PBMC dataset：
+
+https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
+
+ref:
+
+Butler A, Hoffman P, Smibert P, Papalexi E, Satija R. 2018. Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nature Biotechnology. DOI: 10.1038/nbt.4096.
 
 
 
+liver dataset：
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81252
+
+ref:
+
+Camp, J. G. et al. Multilineage communication regulates human liver bud development from pluripotency. Nature 546, 533–538 (2017)
 
 
 
+pancreas dataset：
 
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85241
 
+ref:
 
+Muraro, M. J. et al. A Single-Cell Transcriptome Atlas of the Human Pancreas. Cell Syst 3, 385–394.e3 (2016)
 
