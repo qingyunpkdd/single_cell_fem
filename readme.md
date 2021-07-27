@@ -70,7 +70,7 @@ PBMC dataset：
 
 https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
 
-ref:
+reference :
 
 Butler A, Hoffman P, Smibert P, Papalexi E, Satija R. 2018. Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nature Biotechnology. DOI: 10.1038/nbt.4096.
 
@@ -80,7 +80,7 @@ liver dataset：
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81252
 
-ref:
+reference :
 
 Camp, J. G. et al. Multilineage communication regulates human liver bud development from pluripotency. Nature 546, 533–538 (2017)
 
@@ -90,7 +90,7 @@ pancreas dataset：
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85241
 
-ref:
+reference :
 
 Muraro, M. J. et al. A Single-Cell Transcriptome Atlas of the Human Pancreas. Cell Syst 3, 385–394.e3 (2016)
 
