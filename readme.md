@@ -41,15 +41,11 @@ output directory is the function expression data directory.
 
 ## Batch processing version
 
-
-
 ```python
 
 # go to the \batch_processing_version\src\py_main
 cd ./batch_processing_version/src/py_main
 python main.py
-
-
 
 
 # the default data and result directory are below:
@@ -59,6 +55,14 @@ out_dir = "../../result/gsea_out"
 
 
 ```
+
+## R and python script to reproduce three data sets (PBMC, liver, pancreas)
+
+所有在Seurat中的数据处理代码都放在了script\R_script目录中。
+
+
+
+
 
 
 
