@@ -64,7 +64,7 @@ All data processing codes in Seurat are placed in the script\R_script directory.
 
 ## data download
 
-The download ULRs of all three data sets are as follows:
+Download link for all data:
 
 PBMC dataset：
 
