@@ -14,41 +14,4 @@ require:
 
 ## update
 
-add matrix multiply algorithms
-
-
-
-
-
-
-
-
-
-## how to use
-
-
-
-
-
-## parameter setup
-
-
-
-
-
-## expression data
-
-
-
-
-
-## gene set  data
-
-
-
-
-
-
-
-
 
