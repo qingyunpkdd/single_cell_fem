@@ -41,7 +41,7 @@ python main.py
 
 
 
-![image-20201202143317111](./image-20201202143317111.png)
+![image-20201202143317111](./GUI_Image.jpg)
 
 
 
