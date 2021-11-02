@@ -10,6 +10,7 @@ pandas==1.1.1
 tqdm==4.49.0
 ```
 ## data input
+Our tool supports 10x data and gene expression matrix data. 10x data can be used directly as input. For expression matrix data, we provide the following conversion tools.
 ```python
 '''
 batch_processing_version\src\py_main\utils\data_processing\to_10x_batch.py is a batch conversion tool.
