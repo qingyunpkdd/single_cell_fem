@@ -67,11 +67,11 @@ All data processing codes in Seurat are placed in the script\R_script directory.
 Download link for all data:
 
 PBMC dataset：
-
+https://www.10xgenomics.com/resources/datasets
 https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
 
 reference :
-
+10X Genomics official website (https://www.10xgenomics.com/resources/datasets)
 Butler A, Hoffman P, Smibert P, Papalexi E, Satija R. 2018. Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nature Biotechnology. DOI: 10.1038/nbt.4096.
 
 
