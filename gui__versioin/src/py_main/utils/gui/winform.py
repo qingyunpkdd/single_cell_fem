@@ -171,10 +171,10 @@ class Ui_Form(object):
         self.pushButton.setText(_translate("Form", "output directory            "))
         self.pushButton_2.setText(_translate("Form", "gmt data directory          "))
         self.pushButton_3.setText(_translate("Form", "expression  data directory  "))
-        self.groupBox_2.setTitle(_translate("Form", "Core Numnber Selection"))
+        self.groupBox_2.setTitle(_translate("Form", "Number of CPU cores"))
         self.pushButton_4.setText(_translate("Form", "Run"))
         self.groupBox_3.setTitle(_translate("Form", "Status"))
-        self.label_2.setText(_translate("Form", "Time Consume"))
+        self.label_2.setText(_translate("Form", "Time"))
         self.label.setText(_translate("Form", "Progress"))
 
 if __name__ == '__main__':
