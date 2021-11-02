@@ -15,7 +15,7 @@ Our tool supports 10x data and gene expression matrix data. 10x data can be used
 '''
 batch_processing_version\src\py_main\utils\data_processing\to_10x_batch.py is a batch conversion tool.
 
-For to_10x.py or matrix_to_10x.py, users can specify the input and output file names by specifying the inputfile and outputdir variables in the script.
+
 For the to_10x_batch.py script, users can call 
 '''
 
