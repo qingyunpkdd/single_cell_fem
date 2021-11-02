@@ -9,8 +9,23 @@ numpy==1.19.1
 pandas==1.1.1
 tqdm==4.49.0
 ```
+## data input
+```python
+'''
+batch_processing_version\src\py_main\utils\data_processing\to_10x_batch.py is a batch conversion tool.
 
+For to_10x.py or matrix_to_10x.py, users can specify the input and output file names by specifying the inputfile and outputdir variables in the script.
+For the to_10x_batch.py script, users can call 
+'''
 
+to_10x_batch.py --input_dir example_directory --output_dir example_output_directory for batch transcription.
+
+The specific parameters of to_10x_batch.py are as follows:
+'--input_dir','-i', type=str, default='./totenxtest/datadir', help='the input data directory!'
+'--output_dir','-o', type=str, default='./totenxtest/outdatadir', help='the output data directory!'
+'--trim','-trm', type=str, default='"', help='tirm the symbol!'
+'--seperater','-spr', type=str, default='', help='tirm the symbol! s for space '
+```
 
 ## GUI version
 
